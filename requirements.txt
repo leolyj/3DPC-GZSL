@@ -1,0 +1,11 @@
+Cython==0.29.32
+matplotlib==3.5.3
+pyyaml==6.0
+scipy==1.7.3
+tqdm==4.64.1
+torch_cluster==1.6.0
+torch_geometric==2.3.1
+tensorboardX==2.5.1
+
+
+
