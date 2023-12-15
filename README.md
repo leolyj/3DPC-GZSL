@@ -52,7 +52,7 @@ Then, cut the file 'nearest_neighbors.cpython-xxx.so' and 'nearest_neighbors.py'
   ```
   The processed data can be generated in the '~/data/s3dis/processed_data'.
 
-- For SemanticKIITI dataset, you only need to reformat the folder structure (see README.md in '~/data/semantic_kitti'). Besides, You also need to download the files [semantic-kitti-all.yaml](https://github.com/PRBonn/semantic-kitti-api/blob/master/config/semantic-kitti-all.yaml) and [semantic-kitti.yaml](https://github.com/PRBonn/semantic-kitti-api/blob/master/config/semantic-kitti.yaml), put them in the path '~/data/semantic_kitti'.
+- For SemanticKIITI dataset, you only need to reformat the folder structure (see README.md in '~/data/semantic_kitti'). Besides, You also need to download the files [semantic-kitti-all.yaml](https://github.com/PRBonn/semantic-kitti-api/blob/master/config/semantic-kitti-all.yaml) and [semantic-kitti.yaml](https://github.com/PRBonn/semantic-kitti-api/blob/master/config/semantic-kitti.yaml), put them in the path ~/data/semantic_kitti.
 
 3. Download the [semantic word embeddings](https://drive.google.com/drive/folders/1FnZjpFeD_5fB0xyyxut7zktB3MSNVbVq?usp=sharing) (Already included in the uploaded folder):
    - Put the **semantic word embeddings** in:
